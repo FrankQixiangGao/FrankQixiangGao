@@ -5,5 +5,3 @@
 - 🍻 I'm looking to collaborate with other coders, business people and content creators
 - 🥅 2022 Goals: Get A on Cyber Security defense and Attack class and Get into Google Summer of Code 2022
 - ⚡ Fun fact: I love to draw and I know more than 80 colours
-
-Hey, you are more than welcome to reach out me via Github or Linkedin
